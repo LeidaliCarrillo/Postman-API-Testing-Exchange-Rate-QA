@@ -60,4 +60,4 @@ La API responde correctamente tanto en casos exitosos como en errores controlado
 ---
 
 ## 👨‍💻 Autor
-Proyecto de práctica QA - API Testing con Postman
+Leidalí Carrillo QA - API Testing.
