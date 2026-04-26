@@ -1,3 +1,7 @@
+![QA](https://img.shields.io/badge/QA-API%20Testing-blue)
+![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue?logo=jira)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 # 🧪 Postman API Testing - Exchange Rate QA
 
 ## 📌 Descripción
