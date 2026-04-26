@@ -36,6 +36,8 @@ Proyecto de pruebas API utilizando **:contentReference[oaicite:0]{index=0}** par
 ---
 
 ## 📸 Evidencias
+<img width="971" height="484" alt="image" src="https://github.com/user-attachments/assets/5bb20a2d-5c4a-4157-abd5-464177d3cac0" />
+
 <img width="1277" height="582" alt="Jira1" src="https://github.com/user-attachments/assets/eb5c1774-102a-4879-afc4-86be2dbee2ea" />
 
 <img width="773" height="302" alt="image" src="https://github.com/user-attachments/assets/16c191fc-7e27-478c-b5f3-b7d614abf348" />
